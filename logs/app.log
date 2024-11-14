@@ -1,0 +1,49 @@
+2024-11-13 23:55:16 INFO  - Програму запущено!
+2024-11-13 23:55:33 INFO  - Виконано команду: Show a salad
+2024-11-13 23:55:33 ERROR - Критична помилка: 
+java.lang.RuntimeException: Виявлено критичну помилку!
+	at app.main.Main.main(Main.java:46) ~[classes/:?]
+2024-11-13 23:59:21 INFO  - Виконано команду: 
+2024-11-13 23:59:21 ERROR - Критична помилка: 
+java.lang.RuntimeException: Виявлено критичну помилку!
+	at app.main.Main.main(Main.java:46) ~[classes/:?]
+2024-11-13 23:59:23 INFO  - Завершення програми!
+2024-11-14 00:45:36 INFO  - Програму запущено!
+2024-11-14 00:45:46 INFO  - Виконано команду: Add an ingredient
+2024-11-14 00:45:46 ERROR - Критична помилка: 
+java.lang.RuntimeException: Виявлено критичну помилку!
+	at app.main.Main.main(Main.java:46) ~[classes/:?]
+2024-11-14 00:47:50 INFO  - Виконано команду: 
+2024-11-14 00:47:50 ERROR - Критична помилка: 
+java.lang.RuntimeException: Виявлено критичну помилку!
+	at app.main.Main.main(Main.java:46) ~[classes/:?]
+2024-11-14 00:47:58 INFO  - Завершення програми!
+2024-11-14 00:56:54 INFO  - Програму запущено!
+2024-11-14 00:57:05 INFO  - Виконано команду: Show a salad
+2024-11-14 00:57:15 INFO  - Виконано команду: Add an ingredient
+2024-11-14 00:57:20 ERROR - Критична помилка: 
+java.util.InputMismatchException: null
+	at java.util.Scanner.throwFor(Scanner.java:947) ~[?:?]
+	at java.util.Scanner.next(Scanner.java:1602) ~[?:?]
+	at java.util.Scanner.nextInt(Scanner.java:2267) ~[?:?]
+	at java.util.Scanner.nextInt(Scanner.java:2221) ~[?:?]
+	at app.command.AddIngredientCommand.execute(AddIngredientCommand.java:25) ~[classes/:?]
+	at app.command.Menu.executeCommand(Menu.java:17) ~[classes/:?]
+	at app.main.Main.main(Main.java:44) ~[classes/:?]
+2024-11-14 14:09:24 INFO  - Програму запущено!
+2024-11-14 14:09:27 INFO  - Виконано команду: Show a salad
+2024-11-14 14:09:27 ERROR - Критична помилка: 
+java.lang.RuntimeException: Виявлено критичну помилку!
+	at app.main.Main.main(Main.java:46) ~[classes/:?]
+2024-11-14 14:18:18 ERROR - Критична помилка: 
+java.lang.RuntimeException: Виявлено критичну помилку!
+	at app.main.Main.main(Main.java:46) ~[classes/:?]
+2024-11-14 21:52:25 ERROR - Критична помилка: 
+java.lang.RuntimeException: Виявлено критичну помилку!
+	at app.main.Main.main(Main.java:46) ~[classes/:?]
+2024-11-14 21:53:26 ERROR - Критична помилка: 
+java.lang.RuntimeException: Виявлено критичну помилку!
+	at app.main.Main.main(Main.java:46) ~[classes/:?]
+2024-11-14 21:54:56 ERROR - Критична помилка: 
+java.lang.RuntimeException: Виявлено критичну помилку!
+	at app.main.Main.main(Main.java:46) ~[classes/:?]
